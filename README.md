@@ -26,4 +26,8 @@ Before this I was running matplotlib 3.8.0 and things were failing miserably wit
 
 Notebook enclosed, and thanks to https://www.youtube.com/watch?v=yR0wtOxjx-U .
 
+USAGE:
+jupyter notebook matplotlib_example.ipynb
 
+
+If you have trouble, try "pip remove matplotlib" and then "pip install matplotlib", at least that is what worked for the broken state of things I was initially trying...
