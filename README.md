@@ -34,3 +34,5 @@ If you have trouble, try "pip remove matplotlib" and then "pip install matplotli
 
 also finance tools (covered in video):
 pip install mpl_finance
+
+mpl_finance 0.10.1 is what worked for me
