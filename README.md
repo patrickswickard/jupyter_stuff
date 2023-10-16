@@ -33,6 +33,6 @@ jupyter notebook matplotlib_example.ipynb
 If you have trouble, try "pip remove matplotlib" and then "pip install matplotlib", at least that is what worked for the broken state of things I was initially trying...
 
 also finance tools (covered in video):
-pip install mpl_finance
+pip install mplfinance
 
-mpl_finance 0.10.1 is what worked for me
+mplfinance 0.12.10b0 is what worked for me
